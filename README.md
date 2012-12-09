@@ -1,4 +1,0 @@
-xpathnav
-========
-
-XPath navigator
