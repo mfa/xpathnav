@@ -62,7 +62,7 @@ class XPathViewer:
         filterx.add_pattern("*.xml")
         dialog.add_filter(filterx)
 
-       filterx = gtk.FileFilter()
+        filterx = gtk.FileFilter()
         filterx.set_name("All files")
         filterx.add_pattern("*")
         dialog.add_filter(filterx)
